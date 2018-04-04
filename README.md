@@ -5,8 +5,8 @@ A server-side node.js application to store real-time airport weather data into a
 This application retrieves real-time weather data from [api.checkwx.com](https://api.checkwx.com). This requires a registration for an API key (free) from CheckWX first.
 
 # Built With
-* [metar.js](https://github.com/theciezac/metar.js) - A fork of [skydivejkl's](https://github.com/skydivejkl] [metar.js](https://github.com/skydivejkl/metar.js), customised to parse and decode METAR reports from Singapore Changi Airport (ICAO: WSSS)
-* [taf.js](https://github.com/theciezac/taf.js) - A separate version of [skydivejkl's](https://github.com/skydivejkl] [metar.js](https://github.com/skydivejkl/metar.js), customised to parse and decode TAF reports from Singapore Changi Airport (ICAO: WSSS)
+* [metar.js](https://github.com/theciezac/metar.js) - A fork of [skydivejkl's](https://github.com/skydivejkl) [metar.js](https://github.com/skydivejkl/metar.js), customised to parse and decode METAR reports from Singapore Changi Airport (ICAO: WSSS)
+* [taf.js](https://github.com/theciezac/taf.js) - A separate version of [skydivejkl's](https://github.com/skydivejkl) [metar.js](https://github.com/skydivejkl/metar.js), customised to parse and decode TAF reports from Singapore Changi Airport (ICAO: WSSS)
 
 ## Authors
 * **theciezac.net** - *Initial work* - [Github profile](https://github.com/theciezac)
